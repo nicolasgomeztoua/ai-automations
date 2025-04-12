@@ -11,7 +11,7 @@ desktop.ini
 
 # Environment variables containing credentials
 .env
-.env.local
+.env.prod
 .env.*.local
 
 # Logs
